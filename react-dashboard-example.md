@@ -1,6 +1,6 @@
 Sure, here's an example of a React dashboard for displaying and interacting with database tables:
 
-```
+```jsx
 import React from 'react';
 import axios from 'axios';
 
